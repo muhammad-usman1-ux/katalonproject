@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+gihubsuite,,,,04-11-2026 11:53:31,04-11-2026 11:53:47,15.328s,FAILED
+,,,,,,,
+Test Cases/github1,,,,04-11-2026 11:53:38,04-11-2026 11:53:40,1.510s,FAILED
+"openBrowser("""")",,,,04-11-2026 11:53:38,04-11-2026 11:53:40,1.468s,FAILED
+,,,,,,,
+Test Cases/github2,,,,04-11-2026 11:53:45,04-11-2026 11:53:47,1.529s,FAILED
+"openBrowser("""")",,,,04-11-2026 11:53:45,04-11-2026 11:53:47,1.491s,FAILED
